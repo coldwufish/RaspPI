@@ -1,0 +1,78 @@
+# Raspberry PI - 上課資料(2019.春)
+這是最近整理的上課資料: 嵌入式應用 by Raspberry PI
+
+相關網路資源都有附上來源位址 (如果有遺漏再麻煩提醒)
+
+持續更新中, 先放上PDF檔案. 之後會陸續寫每個檔案的大綱
+
+# Demo video url
+==== Intro ====
+* RAPIRO
+  * https://www.youtube.com/watch?v=AQynsVZx5Pk
+
+* Duckietown:
+  * https://blog.adafruit.com/2016/05/25/duckietown-is-an-open-source-mit-class-computer-vision-self-driving-robot-for-raspberrypi/
+
+* Nybble (PI cat): 
+  * https://www.youtube.com/playlist?list=PLHMFXft_rV6MJ-BhDN-O5I_u4YeAie30n
+
+* Puzzle and Dragon robot
+  * http://www.nicovideo.jp/watch/sm28160788
+
+==== Sensors ====
+* Parking Assist System
+  * https://www.dailymotion.com/video/x5rufd9
+
+==== IMU ====
+* Open Source IMU and AHRS Algorithm with x-IMU
+  * https://www.youtube.com/watch?v=BXsGWoOMtmU
+
+* 3D Box on screen rotated around its roll and pitch axes through an acceleration sensor
+  * https://www.youtube.com/watch?v=85rl3KVAEGU
+
+* 1-2-Switch
+  * https://www.youtube.com/watch?v=DpHDJRGuL7w&t=27s
+
+* Pokemon: Let's Go
+  * https://www.youtube.com/watch?v=9jRtpMKLsts&t=54s
+
+* Fitness Boxing
+  * https://www.youtube.com/watch?v=5s46efcroQ0&t=12s
+
+==== PI camera ====
+* Cubo AI 寶寶攝影機
+  * https://www.youtube.com/watch?v=SkMtp6c2eGE
+
+* Facial Detection
+  * https://www.youtube.com/watch?v=sWTvK72-SPU
+* Computer Vision - Haar-Features
+  * https://www.youtube.com/watch?v=F5rysk51txQ
+* Computer Vision - Integral Images
+  * https://www.youtube.com/watch?v=x41KFOFGnUE
+* Recognition Part II: Face Detection via AdaBoost
+  * https://courses.cs.washington.edu/courses/cse455/16wi/notes/15_FaceDetection.pdf
+
+* Raspberry Pi Pet Detector Camera Using Python, TensorFlow, and Twilio
+  * https://www.youtube.com/watch?v=gGqVNuYol6o
+
+==== beacon ====
+* What Is Beacon Technology
+  * https://www.youtube.com/watch?v=dpSGbWxjQNw
+
+* Beacon Technology in Real Estate Industry
+  * https://www.youtube.com/watch?v=oQW1CQy3GUw
+
+==== voice assistant ====
+* Google assistant
+  * https://www.youtube.com/watch?v=7gh6_U7Nfjs
+  * https://www.youtube.com/watch?v=-RHG5DFAjp8
+
+* Google IO 2019 Next Gen Google Assistant (2019/5/7)
+  * https://www.youtube.com/watch?v=3kODsHcrs2c
+
+==== custom firmware ====
+* Bricked TP-Link WDR4300 Router Recovery Using UART Serial Converter - 1
+  * https://www.youtube.com/watch?v=t35Pei_eb6o
+
+* Bricked TP-Link WDR4300 Router Recovery Using UART Serial Converter - 2
+  * https://www.youtube.com/watch?v=wCwBvoueBG4
