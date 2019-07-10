@@ -26,3 +26,9 @@ USB TTL driver (TTL控制線驅動程式)
 
 Putty (終端機程式)
 * https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
+
+
+# todo list
+MQTT
+* Python 用戶端程式設計 http://rocksaying.tw/archives/2016/MQTT-3-Python-clients.html
+* 使用 MQTT 傳遞資料 https://jerrynest.io/using-mqtt-on-intel-edison
