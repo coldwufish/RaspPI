@@ -32,3 +32,10 @@ Putty (終端機程式)
 MQTT
 * Python 用戶端程式設計 http://rocksaying.tw/archives/2016/MQTT-3-Python-clients.html
 * 使用 MQTT 傳遞資料 https://jerrynest.io/using-mqtt-on-intel-edison
+
+# 注意事項
+PI3 B+ (內建wifi是2.4G/5G雙頻), 使用馬達擴充版會有硬體上的問題
+(好像是內建的3.3V線路會有短路問題, 當PI3 B+ 與 馬達 一起使用會把板子燒壞 QQ
+
+
+裸機的時候要注意GPIO短路問題 (camera模組也要注意不要碰到pin腳)
