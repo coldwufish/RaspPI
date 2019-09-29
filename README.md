@@ -37,5 +37,11 @@ MQTT
 PI3 B+ (內建wifi是2.4G/5G雙頻), 使用馬達擴充版會有硬體上的問題
 (好像是內建的3.3V線路會有短路問題, 當PI3 B+ 與 馬達 一起使用會把板子燒壞 QQ
 
+# Nvidia Jetson Nano 設定心得
+Nano用起來跟PI有一點像(!?), 就順便附個筆記連結在這裡 XD
+https://hackmd.io/KGdNHN-lTIKqOqDiGnFVhQ?view
+
+上次用它來做影像辨識的測試, 內容只有 環境設定+物件辨識 這兩個功能
+
 
 裸機的時候要注意GPIO短路問題 (camera模組也要注意不要碰到pin腳)
