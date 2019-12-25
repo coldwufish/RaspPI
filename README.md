@@ -20,7 +20,7 @@ SD Formatter (清除SD卡舊有的檔案系統)
 * Etcher, https://www.balena.io/etcher/
 
 Notepad ++ (編輯開機設定檔)
-* https://notepad-plus-plus.org/download/v7.3.2.html
+* https://notepad-plus-plus.org/downloads/
 
 USB TTL driver (TTL控制線驅動程式)
 * http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41
