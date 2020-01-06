@@ -10,7 +10,7 @@ Raspbian
 * offical: https://downloads.raspberrypi.org/raspbian_latest
 * ubuntu mirror: http://ftp.ubuntu-tw.org/mirror/raspbian-downloads/raspbian_full/images/raspbian_full-2018-11-15/2018-11-13-raspbian-stretch-full.zip
 * ubuntu mirror folder: http://ftp.ubuntu-tw.org/mirror/raspbian-downloads/raspbian_full/images/
-
+* Google drive分流: https://drive.google.com/drive/u/1/folders/1FvYGCJkXdjXpv2uayGnVs9Mp_cPM_Ywv
 
 SD Formatter (清除SD卡舊有的檔案系統)
  * https://www.sdcard.org/cht/downloads/formatter_4/
