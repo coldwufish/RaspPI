@@ -28,6 +28,11 @@ USB TTL driver (TTL控制線驅動程式)
 Putty (終端機程式)
 * https://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
 
+# PI4 + TTL 的 config.txt設定 
+加上下面三行可以用 (裡面的檔案是PI3的設定)
+enable_uart=1
+core_freq=250
+dtoverlay=miniuart-bt
 
 # todo list
 MQTT
