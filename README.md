@@ -43,6 +43,11 @@ MQTT
 PI3 B+ (內建wifi是2.4G/5G雙頻), 使用馬達擴充版會有硬體上的問題
 (好像是內建的3.3V線路會有短路問題, 當PI3 B+ 與 馬達 一起使用會把板子燒壞 QQ
 
+最新版的opencv在PI上面會有錯誤訊息, 可以用pip移除再安裝舊版
+pip3 uninstall opencv-python
+pip3 install opencv-python==3.4.6.27
+Ref: https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi/issues/67
+
 # Nvidia Jetson Nano 設定心得
 Nano用起來跟PI有一點像(!?), 就順便附個筆記連結在這裡 XD
 https://hackmd.io/KGdNHN-lTIKqOqDiGnFVhQ?view
