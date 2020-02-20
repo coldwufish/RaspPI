@@ -15,9 +15,11 @@ Raspbian
 SD Formatter (清除SD卡舊有的檔案系統)
  * https://www.sdcard.org/cht/downloads/formatter_4/
 
-寫入映像檔到SD卡, 這兩個應該都一樣
-* Win32 image writer, https://sourceforge.net/projects/win32diskimager/
+寫入映像檔到SD卡
 * Etcher, https://www.balena.io/etcher/
+  * 這個會顯示即將寫入的SD卡大小, 可以避免寫入到錯誤的磁碟 (我的隨身硬碟 QQ))
+* Win32 image writer, https://sourceforge.net/projects/win32diskimager/
+  * 這個除了寫入以外, 也可以讀取. 適合用來做整個系統的備份. 但寫入時要注意磁碟代號.
 
 Notepad ++ (編輯開機設定檔)
 * https://notepad-plus-plus.org/downloads/
